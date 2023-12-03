@@ -10,7 +10,8 @@
     background-image: linear-gradient(rgba(238, 188, 188, 0.25),rgba(240, 222, 222, 0.25)),
     url(bg4.jpg); 
     background-size:cover; 
-    background-position: fixed;
+    background-position: center;
+    
 
 
 }
